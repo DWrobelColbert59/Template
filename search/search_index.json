@@ -1,0 +1,1 @@
+{"config":{"lang":["fr"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Template","text":""},{"location":"#ceci-est-un-essai","title":"Ceci est un essai","text":"Premi\u00e8re note <p>Coucou les saucisses</p> \\[x^2 = 1\\]"}]}
