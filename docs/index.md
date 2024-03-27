@@ -2,7 +2,8 @@
 
 ## Ceci est un essai
 
-!!! note "Première note"
+??? note "Première note"
 
-    Coucou les saucisses.
+    Coucou les saucisses
+
     \[x^2 = 1\]
